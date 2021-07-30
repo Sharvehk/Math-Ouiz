@@ -1,0 +1,64 @@
+body{
+    background-color: cornflowerblue;
+	background-image: url("Math Quiz.png");
+}
+
+.login_div1
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+.backgorundimg{
+	background-image: url("Math Quiz 2.png");
+}
+
+.white{
+	color: whitesmoke;
+}
+
+#backgorundimg{
+	background-image: url("Math Quiz 3.png");
+}
+
+#math_ouiz_game_bg{
+	background-image: url("Blue\ and\ White\ Gradient\ Seasonal\ Desktop\ Wallpaper.png");	
+}
+
+#output{
+	background:whitesmoke;
+	border-radius: 10px;
+	border-top: 10px solid #2885d1;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+#Number1{
+	width: 60%;
+	background-color:#2885d1;
+}
+
+#Number1::placeholder{
+   color: white; 
+}
+
+#Number2{
+	width: 60%;
+	background-color:#2885d1;
+}
+
+#Number2::placeholder{
+	color: white; 
+ }
+
+#send-word{
+   border-radius: 15px;
+   width: 10%;
+   padding-top: 9.5px;
+   padding-bottom: 9.5px;
+ }
+
+ 
