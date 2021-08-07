@@ -61,4 +61,12 @@ body{
    padding-bottom: 9.5px;
  }
 
+ #Sign{
+	width: 17%;
+	background-color:#2885d1;
+ }
+
+ #Sign::placeholder{
+	color: white;
+ }
  
