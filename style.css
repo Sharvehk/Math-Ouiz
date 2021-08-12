@@ -69,4 +69,12 @@ body{
  #Sign::placeholder{
 	color: white;
  }
+
+ #player1_name{
+    display: inline;
+ }
+ 
+ #player2_name{
+    display: inline;
+ }
  
